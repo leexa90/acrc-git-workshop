@@ -1,0 +1,13 @@
+ssh-keygen
+
+ls ~/.ssh/
+
+copy content of ~/.ssh/id_rsa.pub to github -> settings -> ssh and GPG keys
+
+push email address and password
+git config --global user.name leexa90
+git config --global user.email lee.x.a90@gmail.com
+
+
+git clone git@github.com:leexa90/acrc-git-workshop.git 
+
