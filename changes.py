@@ -18,7 +18,7 @@ git brnach
 
 >>>>>>> feature1
 '''
-
+first_branch only
 for i in range(0,10):
     print i,third only 
 
